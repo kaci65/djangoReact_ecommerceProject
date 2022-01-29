@@ -1,2 +1,0 @@
-## djangoReact_ecommerceProject
-### update
